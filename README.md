@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [Sumit Duwal]
 
 💻 I am a passionate Developer learning Web & Python development.
 
