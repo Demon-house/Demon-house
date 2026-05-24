@@ -14,6 +14,5 @@
 
 ## 📂 Projects
 - 🤖 Chatbot using Flask
-- 🌐 Portfolio Website
-- 📊 Mini Python Projects
+
 
