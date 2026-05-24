@@ -17,13 +17,3 @@
 - 🌐 Portfolio Website
 - 📊 Mini Python Projects
 
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
-## 📫 Contact
-- Email: yourmail@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
